@@ -44,7 +44,6 @@ public class Application {
         System.out.println("Annual Income: " + annualIncome);
         System.out.println("Address: " + address);
         System.out.println("Post: " + post);
-        System.out.println("City: " + city);
         System.out.println("District: " + district);
         System.out.println("Pincode: " + pincode);
         System.out.println("State: " + state);
@@ -52,12 +51,7 @@ public class Application {
         System.out.println("Parent Mobile: " + parentMobile);
         System.out.println("Email: " + email);
         System.out.println("Post: " + post);
-        System.out.println("Is Resident Of Pilani: " + isResidentOfpilani);
-        System.out.println("Studied In Birla Schools: " + studiedInBirlaSchools);
         System.out.println("Domicile State: " + domicileState);
-        System.out.println("JEE Roll No.: " + jeeRollNo);
-        System.out.println("JEE Marks: " + jeeMarks);
-        System.out.println("JEE Rank: " + jeeRank);
         System.out.println("Branch Preference: " + branchName);
         System.out.println("Aadhar Number: " + aadharNumber);
         System.out.println("Secondary Board: " + secondaryBoard);
