@@ -44,9 +44,7 @@ public class sales {
 
         }
 
-        String activityStatus = interactionCount < 5 ? "Interaction count is Bad! Maintain Above 5 Purchaceses"
-                : "Interaction count is Good.";
-
+        String activityStatus = interactionCount < 5 ? "Not active!" : "Active";
         System.out.println("Customer ID: " + customerId);
         System.out.println("Customer Name: " + customerName);
         System.out.println("Total Purchases: " + totalPurchases);
